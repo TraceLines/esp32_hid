@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+# VSCode
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+sdkconfig
